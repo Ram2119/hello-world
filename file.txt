@@ -1,0 +1,16 @@
+       sum : 9
+n :      12345
+s : globaledge
+sizeof(s) : 8
+add(s) : 0x4006df
+digitz sum : 0
+digitz sum : 5
+digitz sum : 9
+digitz sum : 12
+digitz sum : 14
+       sum : 9
+n :      12345
+s : globaledge
+sizeof(s) : 8
+add(s) : 0x4006df
+digitz sum : 15
