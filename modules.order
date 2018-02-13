@@ -1,0 +1,4 @@
+kernel//home/ramasidda/practice/interrupt/Deferring_work/tasklet.ko
+kernel//home/ramasidda/practice/interrupt/Deferring_work/handler.ko
+kernel//home/ramasidda/practice/interrupt/Deferring_work/interrupt.ko
+kernel//home/ramasidda/practice/interrupt/Deferring_work/workqueue.ko
