@@ -4,7 +4,6 @@
 int main(void)
 {
 	printf("# %d\n", A);
-
 	return 0;
 }
 
